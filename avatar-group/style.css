@@ -1,3 +1,9 @@
+/* Grupo de avatares sobrepuestos uno del otro.
+Completamente circulares
+#avatar
+#group
+#users */
+
 .avatars {
   display: flex;
   padding-left: 2rem;
