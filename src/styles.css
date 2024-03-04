@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #111315 !important;
+  font-family: "DM Sans", sans-serif !important;
+}
+
+.img-bg {
+  width: 100%;
+  height: calc(100vh / 2.2);
+  background-image: url('./assets/images/bg-cafe.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.overlay {
+  position: relative;
+  top: -140px;
+  background-color: #1B1D1F;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
