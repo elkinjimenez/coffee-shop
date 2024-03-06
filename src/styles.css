@@ -5,7 +5,7 @@ body {
 
 .img-bg {
   width: 100%;
-  height: calc(100vh / 2.2);
+  height: calc(100vh / 4);
   background-image: url('./assets/images/bg-cafe.jpg');
   background-size: cover;
   background-position: center;
@@ -13,7 +13,7 @@ body {
 
 .overlay {
   position: relative;
-  top: -200px;
+  top: -180px;
   background-color: #1B1D1F;
   color: white;
   border-radius: 10px;
