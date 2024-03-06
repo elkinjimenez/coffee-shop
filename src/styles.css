@@ -5,7 +5,7 @@ body {
 
 .img-bg {
   width: 100%;
-  height: calc(100vh / 4);
+  height: calc(100vh / 2.2);
   background-image: url('./assets/images/bg-cafe.jpg');
   background-size: cover;
   background-position: center;
@@ -26,18 +26,9 @@ body {
   width: 100%;
 }
 
-h1 {
-  font-size: 32px !important;
-}
-
 h6 {
   margin: 0 !important;
 }
-
-h5 {
-  font-size: 16px !important;
-}
-
 
 .badge-price {
   background-color: #BEE3CC;
