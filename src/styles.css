@@ -13,7 +13,7 @@ body {
 
 .overlay {
   position: relative;
-  top: -140px;
+  top: -200px;
   background-color: #1B1D1F;
   color: white;
   border-radius: 10px;
@@ -26,9 +26,18 @@ body {
   width: 100%;
 }
 
+h1 {
+  font-size: 32px !important;
+}
+
 h6 {
   margin: 0 !important;
 }
+
+h5 {
+  font-size: 16px !important;
+}
+
 
 .badge-price {
   background-color: #BEE3CC;
